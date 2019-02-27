@@ -1,0 +1,34 @@
+* {
+    border: 0;
+    box-sizing: border-box;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+body {
+    background: #362a1b;
+    color: #ffffff;
+}
+
+.container-fluid{
+    max-width: 1200px;
+    margin: 50px auto;
+}
+
+h3 {
+    text-align: center;
+    color: #ece2b3
+}
+
+.flex{
+    display: flex;
+    justify-content: center;
+    /* align-items: center;
+    height: 300px; */
+}
+
+#info {
+    margin-top: 50px;
+}
